@@ -1,0 +1,6 @@
+body{
+    overflow: hidden;
+}
+canvas{
+    border: 20px dashed cyan;
+}
