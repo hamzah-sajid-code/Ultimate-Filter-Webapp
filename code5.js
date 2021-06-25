@@ -25,7 +25,7 @@ function gotTheValue(results){
         console.log(results);
         eyeX = results[0].pose.rightEye.x - 60;
         eyeY = results[0].pose.rightEye.y - 60;
-        noseX = results[0].pose.nose.x - 60;
+        noseX = results[0].pose.nose.x - 55;
         noseY = results[0].pose.nose.y + 15;
     }
 }
